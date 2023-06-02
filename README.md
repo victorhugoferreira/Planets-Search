@@ -1,3 +1,6 @@
+
+Este projeto foi feito para pesquisa de informações quanto a particularidades dos planetas do universo fictício de Star Wars.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
