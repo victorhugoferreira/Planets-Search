@@ -1,5 +1,5 @@
 
-Este projeto foi feito para pesquisa de informações quanto a particularidades dos planetas do universo fictício de Star Wars.
+## Este projeto foi feito para pesquisa de informações quanto a particularidades dos planetas do universo fictício de Star Wars.
 
 # Getting Started with Create React App
 
