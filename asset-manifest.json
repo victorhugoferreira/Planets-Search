@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Planets-Search/static/css/main.de0b728b.css",
+    "main.css": "/Planets-Search/static/css/main.d3457314.css",
     "main.js": "/Planets-Search/static/js/main.3ad75f00.js",
     "static/media/Star_Wars_Logo.svg.png": "/Planets-Search/static/media/Star_Wars_Logo.svg.305e65ee117126c72c3a.png",
     "index.html": "/Planets-Search/index.html",
-    "main.de0b728b.css.map": "/Planets-Search/static/css/main.de0b728b.css.map",
+    "main.d3457314.css.map": "/Planets-Search/static/css/main.d3457314.css.map",
     "main.3ad75f00.js.map": "/Planets-Search/static/js/main.3ad75f00.js.map"
   },
   "entrypoints": [
-    "static/css/main.de0b728b.css",
+    "static/css/main.d3457314.css",
     "static/js/main.3ad75f00.js"
   ]
 }
