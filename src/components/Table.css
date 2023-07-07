@@ -1,5 +1,25 @@
 .Table {
-    overflow: scroll!important;
+    overflow-x: scroll;
     max-width: 100%;
-    color: white;
+}
+
+.Table thead {
+    background-color: #ffe81f;
+    color: black;
+    font-size:100%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.Table th {
+    border: 3px solid white;
+}
+
+.Table td {
+    color: black;
+    background-color: #929191;
+    border: 2px solid white;
+    font-size:85%;
+    text-align: center;
+    text-transform: uppercase;
 }
