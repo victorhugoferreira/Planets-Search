@@ -1,6 +1,9 @@
 .Table {
-    overflow-x: scroll;
-    max-width: 100%;
+    overflow: scroll;
+    overflow-y: hidden;
+    max-width: 1750px;
+    margin: auto;
+    width: auto;
 }
 
 .Table thead {
