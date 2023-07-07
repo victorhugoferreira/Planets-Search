@@ -1,10 +1,12 @@
 import React, { useContext } from 'react';
 import PlanetsContext from '../context/PlanetsContext';
+import './Table.css';
 
 export default function Table() {
   const { search } = useContext(PlanetsContext);
 
   return (
+    <div className="Table">
     <table>
       <thead>
         <tr>
@@ -43,5 +45,6 @@ export default function Table() {
         ))}
       </tbody>
     </table>
+    </div>
   );
 }

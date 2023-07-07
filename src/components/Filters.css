@@ -1,0 +1,97 @@
+.App img {
+    max-width: 500px;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+}
+
+.TheRest {
+    flex-grow: 2;
+    max-width: 800px;
+    width: fit-content;
+}
+
+.Form {
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Form div {
+    padding-right: 1rem;
+}
+
+.Form select {
+    border-radius: 9999px;
+    border-color: #FFE81F;
+    background-color: black;
+    color: white;
+    height: 25px;
+    width: 125%;
+    text-align: center;
+    font-size: medium;
+    text-transform: uppercase;
+}
+
+.InputName input {
+    border-radius: 9999px;
+    border-color: #FFE81F;
+    background-color: black;
+    height: 40px;
+    width: 60%;
+}
+
+.InputName input::placeholder {
+    color: white;
+    font-size: medium;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.InputNumber input {
+    border-radius: 9999px;
+    border-color: #FFE81F;
+    background-color: black;
+    color: white;
+    height: 20px;
+    width: 115%;
+    text-align: center;
+    font-size: medium;
+    text-transform: uppercase;
+}
+
+.Form button {
+    background-color: #929191;
+    border-color:  white;
+    border-radius: 9999px;
+    border: 2px solid white;
+    color: #FFE81F;
+    height: 40px;
+    width: 400%;
+}
+
+.Filter {
+    display: flex;
+    justify-content: center;
+}
+
+.Filter div {
+    padding-right: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.Filters {
+    margin-top: 2rem;
+}
+
+.RemoveFilters button {
+    background-color: #929191;
+    border-color:  white;
+    border-radius: 9999px;
+    border: 2px solid white;
+    color: #FFE81F;
+    height: 40px;
+    width: 40%;
+}

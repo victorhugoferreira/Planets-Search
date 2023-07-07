@@ -77,7 +77,6 @@ function PlanetsProvider({ children }) {
 }
 
 PlanetsProvider.propTypes = {
-  // children: PropTypes.shape().isRequired,
 }.isRequired;
 
 export default PlanetsProvider;
