@@ -1,5 +1,30 @@
+# Descrição
 
-## Este projeto foi feito para pesquisa de informações quanto a particularidades dos planetas do universo fictício de Star Wars.
+Este projeto foi desenvolvido durante o período de Curso da Trybe 🚀
+
+---
+
+## Habilidades requeridas
+
+* Utilizar a _Context API_ do **React** para gerenciar estado.
+* Utilizar o _React Hook useState_;
+* Utilizar o _React Hook useContext_;
+* Utilizar o _React Hook useEffect_;
+* Criar _React Hooks_ customizados.
+
+---
+
+## O que foi desenvolvido
+
+Foi implementado uma lista com filtros de planetas do universo de Star Wars usando **Context API e Hooks**, do React, para controlar os estados globais.
+
+---
+
+## Tecnologias usadas
+
+- `javascript` , `jsx` , `React` , `ContextAPI` e `css`.
+
+---
 
 # Getting Started with Create React App
 
